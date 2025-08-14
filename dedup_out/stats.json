@@ -1,0 +1,20 @@
+{
+  "records_in": 193169,
+  "unique_first_blocks": 76845,
+  "exact_merge_edges": 2899,
+  "fp_merge_edges": 58566,
+  "nmr_merge_edges": 0,
+  "quarantine_edges": 0,
+  "merge_pairs_out": 12069,
+  "sim13c_dim": 0,
+  "policy": {
+    "FP_DUP": 0.95,
+    "FP_BORDER": [
+      0.85,
+      0.95
+    ],
+    "SIM13C_DUP": 0.85,
+    "QUARANTINE_FP": 0.9,
+    "tautomer_canonicalization": true
+  }
+}
